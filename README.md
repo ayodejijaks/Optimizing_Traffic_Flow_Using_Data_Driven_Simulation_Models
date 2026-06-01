@@ -33,34 +33,34 @@ Two scenarios were simulated and compared:
 ## Visualisations
 
 ### Total Emissions Comparison
-![Emissions Comparison](images/emissions_comparison.png)
+![Emissions Comparison](Images/emissions_comparison.png)
 
 ### Vehicle Trip Durations
-![Travel Time Comparison](images/travel_time_comparison.png)
+![Travel Time Comparison](Images/travel_time_comparison.png)
 
 ### Pedestrian Movement Efficiency
-![Pedestrian Efficiency](images/pedestrian_efficiency.png)
+![Pedestrian Efficiency](Images/pedestrian_efficiency.png)
 
 ### Pedestrian Time Loss Distribution
-![Pedestrian Time Loss](images/pedestrian_time_loss.png)
+![Pedestrian Time Loss](Images/pedestrian_time_loss.png)
 
 ### Waiting Time Distribution
-![Waiting Time](images/waiting_time_distribution.png)
+![Waiting Time](Images/waiting_time_distribution.png)
 
 ### Time Loss Distribution
-![Time Loss](images/time_loss_distribution.png)
+![Time Loss](Images/time_loss_distribution.png)
 
 ### Speed Factor Distribution
-![Speed Factor](images/speed_factor_distribution.png)
+![Speed Factor](Images/speed_factor_distribution.png)
 
 ### Average Speed vs Route Length
-![Speed Analysis](images/speed_analysis.png)
+![Speed Analysis](Images/speed_analysis.png)
 
 ### Pedestrian Trip Durations
-![Pedestrian Trip Durations](images/pedestrian_trip_durations.png)
+![Pedestrian Trip Durations](Images/pedestrian_trip_durations.png)
 
 ### Pedestrian Maximum Speed Distribution
-![Pedestrian Max Speed](images/pedestrian_max_speed.png)
+![Pedestrian Max Speed](Images/pedestrian_max_speed.png)
 
 ---
 
